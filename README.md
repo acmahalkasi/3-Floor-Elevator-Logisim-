@@ -37,3 +37,6 @@ http://www.cburch.com/logisim/docs/2.7/en/html/guide/tutorial/index.html
 |  1  |   0	 |  1	   | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  1  |
 |  1	|   1	 |  0	   | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  1  |
 |  1	|   1	 |  1	   | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  1  |
+
+####Video
+http://www.fastswf.com/i6e12Co
