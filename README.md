@@ -12,10 +12,17 @@ http://www.cburch.com/logisim/docs/2.7/en/html/guide/tutorial/index.html
 
 ![1](https://github.com/acmahalkasi/3-Floor-Elevator-Logisim-/Examples/3floor.png)
 
+### Here you can see the display circuit.
 
+![2](https://github.com/acmahalkasi/3-Floor-Elevator-Logisim-/Examples/display.png)
 
+### Here you can see the buttons circuit.
 
+![3](https://github.com/acmahalkasi/3-Floor-Elevator-Logisim-/Examples/buttons.png)
 
+### Here you can see how to work the main circuit.
+
+![4](https://github.com/acmahalkasi/3-Floor-Elevator-Logisim-/Examples/lojik.gif)
 
 
 
